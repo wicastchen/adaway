@@ -1,4 +1,4 @@
-#UPDATE: 2014-5-13 08:07
+#UPDATE: 2014-12-18 23:51
 
 127.0.0.1 localhost
 	
@@ -23,6 +23,7 @@
 127.0.0.1	valf.atm.youku.com
 127.0.0.1	valo.atm.youku.com
 127.0.0.1	valp.atm.youku.com
+127.0.0.1   val.atm.youku.com
 127.0.0.1	lstat.youku.com
 127.0.0.1	speed.lstat.youku.com
 127.0.0.1	urchin.lstat.youku.com
